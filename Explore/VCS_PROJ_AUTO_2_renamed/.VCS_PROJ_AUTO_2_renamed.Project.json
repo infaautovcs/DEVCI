@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "ffLqQMHiVQSjNkgicoixaj",
-    "name" : "VCS_PROJ_AUTO_2",
+    "name" : "VCS_PROJ_AUTO_2_renamed",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "This folder contains assets for Pod Certification.",
+        "description" : "Renamed proj",
         "contentType" : null,
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-01-08T23:01:43.005Z",
+  "updateTime" : "2024-01-08T23:01:56.694Z",
   "objectRefs" : [ ]
 }
