@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "5ZLleIV5noqdXqGB5UfiC9",
-    "name" : "GIT_CI_PROJ",
+    "name" : "GIT_CI_PROJ_renamed",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -11,13 +11,13 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "GIT CI",
+        "description" : "Renamed proj",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2024-01-08T23:12:59.023Z",
+  "updateTime" : "2024-01-08T23:13:11.036Z",
   "objectRefs" : [ ]
 }
