@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "2WW6ztxauZ1bDIPhDHYl6b",
+    "id" : "3wZGgzQt6dkcRPfU4cycUR",
     "name" : "VCS_Asset_Mapping_SQL_FF_1_renamed",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "017ZMI17000000000006"
+        "repoHandle" : "017ZMI17000000000007"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-01-09T19:16:08.241Z",
+  "updateTime" : "2024-01-09T23:28:28.053Z",
   "objectRefs" : [ {
     "id" : "6rnw8xPVmWadP4DppQcMO3",
     "name" : "FF_PodCertification",
