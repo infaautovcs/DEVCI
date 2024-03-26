@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3qHyhuoXy7og1kRiNOFlev",
+    "name" : "GIT_CI_PROJ",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "GIT CI",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-03-26T08:08:43.202Z",
+  "objectRefs" : [ ]
+}
