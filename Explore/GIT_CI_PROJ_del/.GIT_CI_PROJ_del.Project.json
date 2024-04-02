@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "ayT6ZYnocyVhxUX0gW8IMG",
+    "name" : "GIT_CI_PROJ_del",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "GIT CI",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-02T16:22:51.738Z",
+  "objectRefs" : [ ]
+}
