@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "0wJu5l2uYMCiR7nkXnlIsM",
+    "id" : "3VkOBau2E5oktjTiLZtm0L",
     "name" : "VCS_Asset_Mapping_SQL_FF_1_renamed",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0101IF1700000000000H"
+        "repoHandle" : "018OE41700000000001A"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -23,29 +23,9 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-07-20T07:49:19.101Z",
+  "updateTime" : "2024-07-20T22:08:01.382Z",
   "objectRefs" : [ {
-    "id" : "0oi0qE9gL1rlonU5H4c22S",
-    "name" : "SQL_Server_PodCertification",
-    "type" : "Connection",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "0101IF0B000000000002"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : "SQL Server connection for Pod Certification Automation",
-        "contentType" : "JSON",
-        "documentState" : "COMPLETE"
-      }
-    },
-    "path" : "/SYS"
-  }, {
-    "id" : "7J2uF2sV4QUcIbPgqBUfEe",
+    "id" : "7cDc25BBj8ZcDLZmMXCl49",
     "name" : "FF_PodCertification",
     "type" : "Connection",
     "metadata" : {
@@ -54,11 +34,31 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0101IF0B000000000003"
+        "repoHandle" : "018OE40B000000000003"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "Flat File connection for Pod Certification Automation",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "aCVHI91yEkHeSubr0tVPaw",
+    "name" : "SQL_Server_PodCertification",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "018OE40B000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "SQL Server connection for Pod Certification Automation",
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
